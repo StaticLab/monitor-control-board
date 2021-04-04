@@ -32,3 +32,9 @@ In the config page for QuickLaunch, under the MAME setting, create 2 processes u
 ### Notes:
 * ensure the bat file is using the correct COM port or GameEx will not communicate with the controller board
 * for the Rotate Monitor arguments, be sure it is exactly as typed: [ORIENTATION]
+
+### Custom Controller Board:
+
+![pcb_1](arduino/pcb/images/pcb_01.jpg)PCB 01
+![pcb_1](arduino/pcb/images/pcb_02.jpg)PCB 02
+![pcb_1](arduino/pcb/images/pcb_03.jpg)PCB 03
